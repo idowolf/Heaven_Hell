@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 364599b0d19349b4cb10cf29e8152440
+timeCreated: 1481981095
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tex_vfx-inf_particle_spritesheet_explosion_0
+    21300002: tex_vfx-inf_particle_spritesheet_explosion_1
+    21300004: tex_vfx-inf_particle_spritesheet_explosion_2
+    21300006: tex_vfx-inf_particle_spritesheet_explosion_3
+    21300008: tex_vfx-inf_particle_spritesheet_explosion_4
+    21300010: tex_vfx-inf_particle_spritesheet_explosion_5
+    21300012: tex_vfx-inf_particle_spritesheet_explosion_6
+    21300014: tex_vfx-inf_particle_spritesheet_explosion_7
+    21300016: tex_vfx-inf_particle_spritesheet_explosion_8
+    21300018: tex_vfx-inf_particle_spritesheet_explosion_9
+    21300020: tex_vfx-inf_particle_spritesheet_explosion_10
+    21300022: tex_vfx-inf_particle_spritesheet_explosion_11
+    21300024: tex_vfx-inf_particle_spritesheet_explosion_12
+    21300026: tex_vfx-inf_particle_spritesheet_explosion_13
+    21300028: tex_vfx-inf_particle_spritesheet_explosion_14
+    21300030: tex_vfx-inf_particle_spritesheet_explosion_15
+    21300032: tex_vfx-inf_particle_spritesheet_explosion_16
+    21300034: tex_vfx-inf_particle_spritesheet_explosion_17
+    21300036: tex_vfx-inf_particle_spritesheet_explosion_18
+    21300038: tex_vfx-inf_particle_spritesheet_explosion_19
+    21300040: tex_vfx-inf_particle_spritesheet_explosion_20
+    21300042: tex_vfx-inf_particle_spritesheet_explosion_21
+    21300044: tex_vfx-inf_particle_spritesheet_explosion_22
+    21300046: tex_vfx-inf_particle_spritesheet_explosion_23
+    21300048: tex_vfx-inf_particle_spritesheet_explosion_24
+    21300050: tex_vfx-inf_particle_spritesheet_explosion_25
+    21300052: tex_vfx-inf_particle_spritesheet_explosion_26
+    21300054: tex_vfx-inf_particle_spritesheet_explosion_27
+    21300056: tex_vfx-inf_particle_spritesheet_explosion_28
+    21300058: tex_vfx-inf_particle_spritesheet_explosion_29
+    21300060: tex_vfx-inf_particle_spritesheet_explosion_30
+    21300062: tex_vfx-inf_particle_spritesheet_explosion_31
+    21300064: tex_vfx-inf_particle_spritesheet_explosion_32
+    21300066: tex_vfx-inf_particle_spritesheet_explosion_33
+    21300068: tex_vfx-inf_particle_spritesheet_explosion_34
+    21300070: tex_vfx-inf_particle_spritesheet_explosion_35
+    21300072: tex_vfx-inf_particle_spritesheet_explosion_36
+    21300074: tex_vfx-inf_particle_spritesheet_explosion_37
+    21300076: tex_vfx-inf_particle_spritesheet_explosion_38
+    21300078: tex_vfx-inf_particle_spritesheet_explosion_39
+    21300080: tex_vfx-inf_particle_spritesheet_explosion_40
+    21300082: tex_vfx-inf_particle_spritesheet_explosion_41
+    21300084: tex_vfx-inf_particle_spritesheet_explosion_42
+    21300086: tex_vfx-inf_particle_spritesheet_explosion_43
+    21300088: tex_vfx-inf_particle_spritesheet_explosion_44
+    21300090: tex_vfx-inf_particle_spritesheet_explosion_45
+    21300092: tex_vfx-inf_particle_spritesheet_explosion_46
+    21300094: tex_vfx-inf_particle_spritesheet_explosion_47
+    21300096: tex_vfx-inf_particle_spritesheet_explosion_48
+    21300098: tex_vfx-inf_particle_spritesheet_explosion_49
+    21300100: tex_vfx-inf_particle_spritesheet_explosion_50
+    21300102: tex_vfx-inf_particle_spritesheet_explosion_51
+    21300104: tex_vfx-inf_particle_spritesheet_explosion_52
+    21300106: tex_vfx-inf_particle_spritesheet_explosion_53
+    21300108: tex_vfx-inf_particle_spritesheet_explosion_54
+    21300110: tex_vfx-inf_particle_spritesheet_explosion_55
+    21300112: tex_vfx-inf_particle_spritesheet_explosion_56
+    21300114: tex_vfx-inf_particle_spritesheet_explosion_57
+    21300116: tex_vfx-inf_particle_spritesheet_explosion_58
+    21300118: tex_vfx-inf_particle_spritesheet_explosion_59
+    21300120: tex_vfx-inf_particle_spritesheet_explosion_60
+    21300122: tex_vfx-inf_particle_spritesheet_explosion_61
+    21300124: tex_vfx-inf_particle_spritesheet_explosion_62
+    21300126: tex_vfx-inf_particle_spritesheet_explosion_63
+    21300128: tex_vfx-inf_particle_spritesheet_explosion_64
+    21300130: tex_vfx-inf_particle_spritesheet_explosion_65
+    21300132: tex_vfx-inf_particle_spritesheet_explosion_66
+    21300134: tex_vfx-inf_particle_spritesheet_explosion_67
+    21300136: tex_vfx-inf_particle_spritesheet_explosion_68
+    21300138: tex_vfx-inf_particle_spritesheet_explosion_69
+    21300140: tex_vfx-inf_particle_spritesheet_explosion_70
+    21300142: tex_vfx-inf_particle_spritesheet_explosion_71
+    21300144: tex_vfx-inf_particle_spritesheet_explosion_72
+    21300146: tex_vfx-inf_particle_spritesheet_explosion_73
+    21300148: tex_vfx-inf_particle_spritesheet_explosion_74
+    21300150: tex_vfx-inf_particle_spritesheet_explosion_75
+    21300152: tex_vfx-inf_particle_spritesheet_explosion_76
+    21300154: tex_vfx-inf_particle_spritesheet_explosion_77
+    21300156: tex_vfx-inf_particle_spritesheet_explosion_78
+    21300158: tex_vfx-inf_particle_spritesheet_explosion_79
+    21300160: tex_vfx-inf_particle_spritesheet_explosion_80
+    21300162: tex_vfx-inf_particle_spritesheet_explosion_81
+    21300164: tex_vfx-inf_particle_spritesheet_explosion_82
+    21300166: tex_vfx-inf_particle_spritesheet_explosion_83
+    21300168: tex_vfx-inf_particle_spritesheet_explosion_84
+    21300170: tex_vfx-inf_particle_spritesheet_explosion_85
+    21300172: tex_vfx-inf_particle_spritesheet_explosion_86
+    21300174: tex_vfx-inf_particle_spritesheet_explosion_87
+    21300176: tex_vfx-inf_particle_spritesheet_explosion_88
+    21300178: tex_vfx-inf_particle_spritesheet_explosion_89
+    21300180: tex_vfx-inf_particle_spritesheet_explosion_90
+    21300182: tex_vfx-inf_particle_spritesheet_explosion_91
+    21300184: tex_vfx-inf_particle_spritesheet_explosion_92
+    21300186: tex_vfx-inf_particle_spritesheet_explosion_93
+    21300188: tex_vfx-inf_particle_spritesheet_explosion_94
+    21300190: tex_vfx-inf_particle_spritesheet_explosion_95
+    21300192: tex_vfx-inf_particle_spritesheet_explosion_96
+    21300194: tex_vfx-inf_particle_spritesheet_explosion_97
+    21300196: tex_vfx-inf_particle_spritesheet_explosion_98
+    21300198: tex_vfx-inf_particle_spritesheet_explosion_99
+    21300200: tex_vfx-inf_particle_spritesheet_explosion_100
+    21300202: tex_vfx-inf_particle_spritesheet_explosion_101
+    21300204: tex_vfx-inf_particle_spritesheet_explosion_102
+    21300206: tex_vfx-inf_particle_spritesheet_explosion_103
+    21300208: tex_vfx-inf_particle_spritesheet_explosion_104
+    21300210: tex_vfx-inf_particle_spritesheet_explosion_105
+    21300212: tex_vfx-inf_particle_spritesheet_explosion_106
+    21300214: tex_vfx-inf_particle_spritesheet_explosion_107
+    21300216: tex_vfx-inf_particle_spritesheet_explosion_108
+    21300218: tex_vfx-inf_particle_spritesheet_explosion_109
+    21300220: tex_vfx-inf_particle_spritesheet_explosion_110
+    21300222: tex_vfx-inf_particle_spritesheet_explosion_111
+    21300224: tex_vfx-inf_particle_spritesheet_explosion_112
+    21300226: tex_vfx-inf_particle_spritesheet_explosion_113
+    21300228: tex_vfx-inf_particle_spritesheet_explosion_114
+    21300230: tex_vfx-inf_particle_spritesheet_explosion_115
+    21300232: tex_vfx-inf_particle_spritesheet_explosion_116
+    21300234: tex_vfx-inf_particle_spritesheet_explosion_117
+    21300236: tex_vfx-inf_particle_spritesheet_explosion_118
+    21300238: tex_vfx-inf_particle_spritesheet_explosion_119
+    21300240: tex_vfx-inf_particle_spritesheet_explosion_120
+    21300242: tex_vfx-inf_particle_spritesheet_explosion_121
+    21300244: tex_vfx-inf_particle_spritesheet_explosion_122
+    21300246: tex_vfx-inf_particle_spritesheet_explosion_123
+    21300248: tex_vfx-inf_particle_spritesheet_explosion_124
+    21300250: tex_vfx-inf_particle_spritesheet_explosion_125
+    21300252: tex_vfx-inf_particle_spritesheet_explosion_126
+    21300254: tex_vfx-inf_particle_spritesheet_explosion_127
+    21300256: tex_vfx-inf_particle_spritesheet_explosion_128
+    21300258: tex_vfx-inf_particle_spritesheet_explosion_129
+    21300260: tex_vfx-inf_particle_spritesheet_explosion_130
+    21300262: tex_vfx-inf_particle_spritesheet_explosion_131
+    21300264: tex_vfx-inf_particle_spritesheet_explosion_132
+    21300266: tex_vfx-inf_particle_spritesheet_explosion_133
+    21300268: tex_vfx-inf_particle_spritesheet_explosion_134
+    21300270: tex_vfx-inf_particle_spritesheet_explosion_135
+    21300272: tex_vfx-inf_particle_spritesheet_explosion_136
+    21300274: tex_vfx-inf_particle_spritesheet_explosion_137
+    21300276: tex_vfx-inf_particle_spritesheet_explosion_138
+    21300278: tex_vfx-inf_particle_spritesheet_explosion_139
+    21300280: tex_vfx-inf_particle_spritesheet_explosion_140
+    21300282: tex_vfx-inf_particle_spritesheet_explosion_141
+    21300284: tex_vfx-inf_particle_spritesheet_explosion_142
+    21300286: tex_vfx-inf_particle_spritesheet_explosion_143
+    21300288: tex_vfx-inf_particle_spritesheet_explosion_144
+    21300290: tex_vfx-inf_particle_spritesheet_explosion_145
+    21300292: tex_vfx-inf_particle_spritesheet_explosion_146
+    21300294: tex_vfx-inf_particle_spritesheet_explosion_147
+    21300296: tex_vfx-inf_particle_spritesheet_explosion_148
+    21300298: tex_vfx-inf_particle_spritesheet_explosion_149
+    21300300: tex_vfx-inf_particle_spritesheet_explosion_150
+    21300302: tex_vfx-inf_particle_spritesheet_explosion_151
+    21300304: tex_vfx-inf_particle_spritesheet_explosion_152
+    21300306: tex_vfx-inf_particle_spritesheet_explosion_153
+    21300308: tex_vfx-inf_particle_spritesheet_explosion_154
+    21300310: tex_vfx-inf_particle_spritesheet_explosion_155
+    21300312: tex_vfx-inf_particle_spritesheet_explosion_156
+    21300314: tex_vfx-inf_particle_spritesheet_explosion_157
+    21300316: tex_vfx-inf_particle_spritesheet_explosion_158
+    21300318: tex_vfx-inf_particle_spritesheet_explosion_159
+    21300320: tex_vfx-inf_particle_spritesheet_explosion_160
+    21300322: tex_vfx-inf_particle_spritesheet_explosion_161
+    21300324: tex_vfx-inf_particle_spritesheet_explosion_162
+    21300326: tex_vfx-inf_particle_spritesheet_explosion_163
+    21300328: tex_vfx-inf_particle_spritesheet_explosion_164
+    21300330: tex_vfx-inf_particle_spritesheet_explosion_165
+    21300332: tex_vfx-inf_particle_spritesheet_explosion_166
+    21300334: tex_vfx-inf_particle_spritesheet_explosion_167
+    21300336: tex_vfx-inf_particle_spritesheet_explosion_168
+    21300338: tex_vfx-inf_particle_spritesheet_explosion_169
+    21300340: tex_vfx-inf_particle_spritesheet_explosion_170
+    21300342: tex_vfx-inf_particle_spritesheet_explosion_171
+    21300344: tex_vfx-inf_particle_spritesheet_explosion_172
+    21300346: tex_vfx-inf_particle_spritesheet_explosion_173
+    21300348: tex_vfx-inf_particle_spritesheet_explosion_174
+    21300350: tex_vfx-inf_particle_spritesheet_explosion_175
+    21300352: tex_vfx-inf_particle_spritesheet_explosion_176
+    21300354: tex_vfx-inf_particle_spritesheet_explosion_177
+    21300356: tex_vfx-inf_particle_spritesheet_explosion_178
+    21300358: tex_vfx-inf_particle_spritesheet_explosion_179
+    21300360: tex_vfx-inf_particle_spritesheet_explosion_180
+    21300362: tex_vfx-inf_particle_spritesheet_explosion_181
+    21300364: tex_vfx-inf_particle_spritesheet_explosion_182
+    21300366: tex_vfx-inf_particle_spritesheet_explosion_183
+    21300368: tex_vfx-inf_particle_spritesheet_explosion_184
+    21300370: tex_vfx-inf_particle_spritesheet_explosion_185
+    21300372: tex_vfx-inf_particle_spritesheet_explosion_186
+    21300374: tex_vfx-inf_particle_spritesheet_explosion_187
+    21300376: tex_vfx-inf_particle_spritesheet_explosion_188
+    21300378: tex_vfx-inf_particle_spritesheet_explosion_189
+    21300380: tex_vfx-inf_particle_spritesheet_explosion_190
+    21300382: tex_vfx-inf_particle_spritesheet_explosion_191
+    21300384: tex_vfx-inf_particle_spritesheet_explosion_192
+    21300386: tex_vfx-inf_particle_spritesheet_explosion_193
+    21300388: tex_vfx-inf_particle_spritesheet_explosion_194
+    21300390: tex_vfx-inf_particle_spritesheet_explosion_195
+    21300392: tex_vfx-inf_particle_spritesheet_explosion_196
+    21300394: tex_vfx-inf_particle_spritesheet_explosion_197
+    21300396: tex_vfx-inf_particle_spritesheet_explosion_198
+    21300398: tex_vfx-inf_particle_spritesheet_explosion_199
+    21300400: tex_vfx-inf_particle_spritesheet_explosion_200
+    21300402: tex_vfx-inf_particle_spritesheet_explosion_201
+    21300404: tex_vfx-inf_particle_spritesheet_explosion_202
+    21300406: tex_vfx-inf_particle_spritesheet_explosion_203
+    21300408: tex_vfx-inf_particle_spritesheet_explosion_204
+    21300410: tex_vfx-inf_particle_spritesheet_explosion_205
+    21300412: tex_vfx-inf_particle_spritesheet_explosion_206
+    21300414: tex_vfx-inf_particle_spritesheet_explosion_207
+    21300416: tex_vfx-inf_particle_spritesheet_explosion_208
+    21300418: tex_vfx-inf_particle_spritesheet_explosion_209
+    21300420: tex_vfx-inf_particle_spritesheet_explosion_210
+    21300422: tex_vfx-inf_particle_spritesheet_explosion_211
+    21300424: tex_vfx-inf_particle_spritesheet_explosion_212
+    21300426: tex_vfx-inf_particle_spritesheet_explosion_213
+    21300428: tex_vfx-inf_particle_spritesheet_explosion_214
+    21300430: tex_vfx-inf_particle_spritesheet_explosion_215
+    21300432: tex_vfx-inf_particle_spritesheet_explosion_216
+    21300434: tex_vfx-inf_particle_spritesheet_explosion_217
+    21300436: tex_vfx-inf_particle_spritesheet_explosion_218
+    21300438: tex_vfx-inf_particle_spritesheet_explosion_219
+    21300440: tex_vfx-inf_particle_spritesheet_explosion_220
+    21300442: tex_vfx-inf_particle_spritesheet_explosion_221
+    21300444: tex_vfx-inf_particle_spritesheet_explosion_222
+    21300446: tex_vfx-inf_particle_spritesheet_explosion_223
+    21300448: tex_vfx-inf_particle_spritesheet_explosion_224
+    21300450: tex_vfx-inf_particle_spritesheet_explosion_225
+    21300452: tex_vfx-inf_particle_spritesheet_explosion_226
+    21300454: tex_vfx-inf_particle_spritesheet_explosion_227
+    21300456: tex_vfx-inf_particle_spritesheet_explosion_228
+    21300458: tex_vfx-inf_particle_spritesheet_explosion_229
+    21300460: tex_vfx-inf_particle_spritesheet_explosion_230
+    21300462: tex_vfx-inf_particle_spritesheet_explosion_231
+    21300464: tex_vfx-inf_particle_spritesheet_explosion_232
+    21300466: tex_vfx-inf_particle_spritesheet_explosion_233
+    21300468: tex_vfx-inf_particle_spritesheet_explosion_234
+    21300470: tex_vfx-inf_particle_spritesheet_explosion_235
+    21300472: tex_vfx-inf_particle_spritesheet_explosion_236
+    21300474: tex_vfx-inf_particle_spritesheet_explosion_237
+    21300476: tex_vfx-inf_particle_spritesheet_explosion_238
+    21300478: tex_vfx-inf_particle_spritesheet_explosion_239
+    21300480: tex_vfx-inf_particle_spritesheet_explosion_240
+    21300482: tex_vfx-inf_particle_spritesheet_explosion_241
+    21300484: tex_vfx-inf_particle_spritesheet_explosion_242
+    21300486: tex_vfx-inf_particle_spritesheet_explosion_243
+    21300488: tex_vfx-inf_particle_spritesheet_explosion_244
+    21300490: tex_vfx-inf_particle_spritesheet_explosion_245
+    21300492: tex_vfx-inf_particle_spritesheet_explosion_246
+    21300494: tex_vfx-inf_particle_spritesheet_explosion_247
+    21300496: tex_vfx-inf_particle_spritesheet_explosion_248
+    21300498: tex_vfx-inf_particle_spritesheet_explosion_249
+    21300500: tex_vfx-inf_particle_spritesheet_explosion_250
+    21300502: tex_vfx-inf_particle_spritesheet_explosion_251
+    21300504: tex_vfx-inf_particle_spritesheet_explosion_252
+    21300506: tex_vfx-inf_particle_spritesheet_explosion_253
+    21300508: tex_vfx-inf_particle_spritesheet_explosion_254
+    21300510: tex_vfx-inf_particle_spritesheet_explosion_255
+    21300512: tex_vfx-inf_particle_spritesheet_explosion_256
+    21300514: tex_vfx-inf_particle_spritesheet_explosion_257
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_0
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_1
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_3
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_4
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_5
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_9
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_10
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_11
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_13
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_20
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_21
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_25
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_26
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_27
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_28
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_29
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_34
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_35
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_36
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_37
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_42
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_43
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_44
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_45
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_48
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_49
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_50
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_51
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_52
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_53
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tex_vfx-inf_particle_spritesheet_explosion_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
