@@ -8,6 +8,9 @@ public class playerScript : MonoBehaviour {
     public bulletScript bullet;
     public lightningScript lightning;
     private Rigidbody2D r2d;
+    private float acceleration = 0;
+    public float accelerationModifier;
+    public float baseSpeed;
 
     // Use this for initialization
     void Start() {
@@ -22,11 +25,22 @@ public class playerScript : MonoBehaviour {
         // Move the spaceship when an arrow key is pressed
         Vector3 v = r2d.velocity;
         if (Input.GetKey(KeyCode.RightArrow))
-            v.x = 10;
+        {
+            acceleration = acceleration + Time.deltaTime*accelerationModifier;
+            v.x = baseSpeed + acceleration;
+        }
         else if (Input.GetKey(KeyCode.LeftArrow))
-            v.x = -10;
+        {
+            acceleration = acceleration + Time.deltaTime*accelerationModifier;
+            v.x = -baseSpeed - acceleration;
+        }
         else
+        {
             v.x = 0;
+        }
+
+        if (Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.RightArrow))
+            acceleration = 0;
         r2d.velocity = v;
 
 
