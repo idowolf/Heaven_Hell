@@ -28,7 +28,7 @@ public class fingerScript : MonoBehaviour {
 
 
         // When the spacebar is pressed 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             // Create a new bullet at “transform.position” 
             // Which is the current position of the ship
@@ -48,7 +48,7 @@ public class fingerScript : MonoBehaviour {
 
 
         // When the spacebar is pressed
-        if (Input.GetKeyDown(KeyCode.X))
+        if (Input.GetKeyDown(KeyCode.Mouse1))
         {
             // Create a new bullet at “transform.position” 
             // Which is the current position of the ship
