@@ -22,7 +22,7 @@ public class playerScript : MonoBehaviour {
     void Update() {
         // Get the Rigidbody2D component
 
-        // Move the spaceship when an arrow key is pressed
+        /* Move the spaceship when an arrow key is pressed
         Vector3 v = r2d.velocity;
         if (Input.GetKey(KeyCode.RightArrow))
         {
@@ -43,14 +43,15 @@ public class playerScript : MonoBehaviour {
             acceleration = 0;
         r2d.velocity = v;
 
-
-        // When the spacebar is pressed
+        */
+        // When the spacebar is pressed 
         if (Input.GetKeyDown(KeyCode.Space))
         {
             // Create a new bullet at “transform.position” 
             // Which is the current position of the ship
             // Quaternion.identity = add the bullet with no rotation
-            GameObject.Instantiate(bullet, offsetPosition(0.5f,4.5f), Quaternion.identity);
+            bulletScript instBullet = GameObject.Instantiate(bullet, offsetPosition(0.5f,4.5f), Quaternion.identity);
+            instBullet.bulletSpeed = 20;
         }
 
 
