@@ -26,7 +26,7 @@ public class fingerScript : MonoBehaviour {
             rotZ = 180;
         transform.rotation = Quaternion.Euler(0f, 0f, rotZ + 120);
 
-        
+
         // When the spacebar is pressed 
         if (Input.GetKeyDown(KeyCode.Space))
         {
@@ -34,11 +34,12 @@ public class fingerScript : MonoBehaviour {
             // Which is the current position of the ship
             //Quaternion.identity = add the bullet with no rotation
 
-            float x = 3.25576412f * Mathf.Cos((rotZ+180) * Mathf.Deg2Rad);
-            float y = 3.25576412f * Mathf.Sin((rotZ+180) * Mathf.Deg2Rad);
+            float x = 4.25576412f * Mathf.Cos((rotZ+180) * Mathf.Deg2Rad);
+            float y = 4.25576412f * Mathf.Sin((rotZ+180) * Mathf.Deg2Rad);
             bulletScript instBullet = GameObject.Instantiate(bullet, offsetPosition(x, y), Quaternion.identity);
             instBullet.xFinger = x;
             instBullet.yFinger = y;
+            Debug.Log("mousePos" + mousePos);
             Debug.Log("angle=" +rotZ);
             Debug.Log("x=" +x);
             Debug.Log("y=" +y);
@@ -52,15 +53,15 @@ public class fingerScript : MonoBehaviour {
             // Create a new bullet at “transform.position” 
             // Which is the current position of the ship
             //Quaternion.identity = add the bullet with no rotation
-            float x = 8.25576412f * Mathf.Cos((rotZ + 180) * Mathf.Deg2Rad);
-            float y = 8.25576412f * Mathf.Sin((rotZ + 180) * Mathf.Deg2Rad);
-            bulletScript instBullet = GameObject.Instantiate(bullet, offsetPosition(x, y), Quaternion.identity);
-            instBullet.xFinger = x;
-            instBullet.yFinger = y;
+            float x = 10.25576412f * Mathf.Cos((rotZ + 180) * Mathf.Deg2Rad);
+            float y = 10.25576412f * Mathf.Sin((rotZ + 180) * Mathf.Deg2Rad);
+            lightningScript instLightning = GameObject.Instantiate(lightning, offsetPosition(x, y), Quaternion.identity);
+            instLightning.xFinger = x;
+            instLightning.yFinger = y;
             Debug.Log("angle=" + rotZ);
             Debug.Log("x=" + x);
             Debug.Log("y=" + y);
-            instBullet.bulletSpeed = 20;
+            instLightning.bulletSpeed = 20;
         }
     }
 

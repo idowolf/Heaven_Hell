@@ -26,6 +26,5 @@ public class lightningScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //transform.position += transform.up * bulletSpeed * Time.deltaTime;
     }
 }
